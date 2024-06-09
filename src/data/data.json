@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "delayValue": 0.5,
+            "icon": "/target.png",
+            "title": "Essentiel",
+            "price": "$179",
+            "priceYear": "$159",
+            "offer": [
+                "+2500 vues/mois",
+                "+60 clics sur votre site",
+                "+15 appels/mois",
+                "+15 demandes d'itinéraires",
+                "Plus de visibilité sur Google",
+                "Réponses aux avis Google inclus"
+            ]
+        },
+        {
+            "id": 2,
+            "delayValue": 1,
+            "icon": "/gem.png",
+            "title": "Ultime",
+            "best": "Best Offer",
+            "price": "$439",
+            "priceYear": "$419",
+            "offer": [
+                "+6500 vues/mois",
+                "+200 clics sur votre site",
+                "+40 appels/mois",
+                "+40 demandes d'itinéraires",
+                "Plus de visibilité sur Google",
+                "Réponses aux avis Google inclus",
+                "1 shooting",
+                "QR code personnalisé"
+            ]
+        },
+        {
+            "id": 3,
+            "delayValue": 0.75,
+            "icon": "/target.png",
+            "title": "Premium",
+            "price": "$319",
+            "priceYear": "$299",
+            "offer": [
+                "+11 000 vues/mois",
+                "+500 clics sur votre site",
+                "+80 appels/mois",
+                "+80 demandes d'itinéraires",
+                "Plus de visibilité sur Google",
+                "Réponses aux avis Google inclus",
+                "1 shooting"
+            ]
+        }
+    ],
+    "btnPaid": [
+        {
+            "id": "month",
+            "content": "Paiement Mensuel"
+        },
+        {
+            "id": "year",
+            "content": "Paiement Annuel (-20%)"
+        }
+    ]
+}
